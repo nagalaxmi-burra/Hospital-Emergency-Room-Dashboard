@@ -111,7 +111,7 @@ Admissions and treated-and-released patients were almost evenly split, indicatin
 ## 🧠 What This Project Demonstrates
 
 - Real-world data cleaning and transformation
-- KPI creation using DAX
+- KPI creation using DAX(Data Analysis Expression)
 - Business-focused dashboard design
 - Actionable insight generation from healthcare data
 
