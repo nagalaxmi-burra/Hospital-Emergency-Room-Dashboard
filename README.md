@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard (Power BI)
 
-An interactive data analytics project built using Power BI to analyze hospital emergency room (ER) operations, patient flow, and performance metrics.  
+An interactive data visualization project built using Power BI to analyze hospital emergency room (ER) operations, patient flow, and performance metrics.  
 The project focuses on transforming ER data into meaningful insights that support operational planning and decision-making.
 
 ---
