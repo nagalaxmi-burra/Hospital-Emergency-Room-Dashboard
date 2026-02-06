@@ -87,7 +87,7 @@ Summarizes the most important insights derived from the analysis.
 
 - **3,613** unique patients analyzed
 - Average wait time: **~35 minutes**
-- Overall satisfaction score: **4.86 / 10**
+- Overall satisfaction score: **4.86 / 5**
 - Highest satisfaction: **Age 50–59**
 - Lowest satisfaction: **Age 70–79**
 
